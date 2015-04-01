@@ -1,5 +1,7 @@
 require "oshinagaki/version"
 
 module Oshinagaki
-  # Your code goes here...
+  def self.run
+    puts "test"
+  end
 end
